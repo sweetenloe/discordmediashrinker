@@ -3,6 +3,10 @@
 ### Description:
 An efficient and short script that'll <b> convert media files to <= 10mb </b> for Discord not to throw a fit because you didn't want to pay for Nitro.
 
+
+Update: Fuck Discord.
+
+
 ### Usage:
 
 ```python
